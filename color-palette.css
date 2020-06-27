@@ -1,0 +1,9 @@
+             :root {
+                --main-bg-color: #e7dfd5;
+                --main-border-color: #204051;
+                --main-text-color: #204051;
+                --element-bg-color: #84a9ac;
+                --element-bg-color-hover: #3b6978;
+                --element-bg-color-active: #4eb2d3;
+                --show-bg-color: #ffffff;
+            }
